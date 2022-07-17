@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: seashell;
+
+}
+
+.clock{
+   margin-top: 250px;
+   margin-right: 120px;
+   margin-left: 120px;
+   text-align: center;
+}
+#hour{
+    font-size: 80px;
+    color: rgba(236, 6, 118, 0.815);
+    
+}
+#minute{
+    font-size: 80px;
+    color: rgba(236, 6, 118, 0.815)
+}
+#second{
+    font-size: 80px;
+    color: rgba(236, 6, 118, 0.815)
+}
+#am_pm{
+    font-size: 70px;
+    color: rgb(2, 34, 129);
+}
+#hh{
+    font-size: 30px;
+    color: rgb(129, 4, 46);
+}
+#mm{
+    font-size: 30px;
+    color:rgb(129, 4, 46) ;
+    
+}
+#ss{
+    font-size: 30px;
+    color:rgb(129, 4, 46) ;
+
+}
